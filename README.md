@@ -1,3 +1,6 @@
+#Guidelines on working with the jupyter notebook  
+Download the data folder and the jupyter notebook into the same folder location.
+
 # EDA
 Exploratory Data Analysis for Rossmann Store Sales
 
