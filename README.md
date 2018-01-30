@@ -1,4 +1,4 @@
-#Guidelines on working with the jupyter notebook  
+## Guidelines on working with the jupyter notebook  
 Download the data folder and the jupyter notebook into the same folder location.
 
 # EDA
